@@ -1,1 +1,1 @@
-# Multi-Channel-Speech-Enhancement
+# MC-SPP based Multi-Channel-Speech-Enhancement
