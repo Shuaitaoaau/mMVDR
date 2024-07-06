@@ -1,1 +1,1 @@
-# MC-SPP based Multi-Channel-Speech-Enhancement
+# Learning-based MC-SPP estimation for Multi-Channel-Speech-Enhancement
